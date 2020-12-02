@@ -1,0 +1,15 @@
+# BEGIN makelikethis
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /seo/
+
+RewriteCond %{HTTPS} off
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+
+RewriteRule ^ %{REQUEST_URI}.php [NC,L]
+
+RewriteCond %{QUERY_STRING} ^(.*)$
+RewriteRule products1/(.*)/$ /seo/product_list1.php?q=$1 [L]
+
+</IfModule>

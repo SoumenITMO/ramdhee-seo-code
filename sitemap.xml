@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://ramadhee.ee/</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/login</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/register</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/products/burgerid/kana/juustukana/13/</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/products/burgerid/veiseliha/juustuburgerid/12/</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/products/kana/prae-kana/koivad/10/</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/products/kana/prae-kana/popkorni/11/</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/products/kana/prae-kana/tiivad/9/</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/food_allergies.php</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/about.php</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/delivery_information.php</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/privacy-policy.php</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/terms_conditions.php</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/return.php</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/contact_us.php</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/privacy-policy</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5177</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5176</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5175</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5174</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5173</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5172</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5171</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5170</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5169</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5168</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5167</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5159</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5158</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5157</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5156</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5162</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5161</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5160</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5166</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5165</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5164</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramadhee.ee/product_details.php?product_id=5163</loc>
+  <lastmod>2020-10-13T05:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

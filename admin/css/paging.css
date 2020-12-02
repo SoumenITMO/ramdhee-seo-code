@@ -1,0 +1,109 @@
+/*Scott*/
+@font-face {
+font-family: 'MyriadPro-Regular';
+src: url('../fonts/MyriadPro-Regular_0.eot');
+src: url('../fonts/MyriadPro-Regular_0.eot?#iefix') format('embedded-opentype'),
+url('../fonts/MyriadPro-Regular_0.woff') format('woff'),
+url('../fonts/MyriadPro-Regular_0.ttf') format('truetype'),
+url('../fonts/MyriadPro-Regular_0.svg#MyriadPro-Regular') format('svg');
+font-weight: normal;
+font-style: normal;
+
+}
+div.pagination {
+	font-family:"MyriadPro-Regular",Arial, Helvetica, sans-serif;
+	font-size:14px;
+	padding:3px;
+	margin:3px;
+	text-align:center;
+}
+
+div.pagination a {
+    font-family:"MyriadPro-Regular",Arial, Helvetica, sans-serif;
+	font-size:14px;
+	padding: 4px 5px 4px 5px;
+	margin-right: 3px;
+	border: 0px solid #2E2E2E;
+	background-color:#938f8f; 
+	border-bottom-color: #384f76;
+    background-color: #938f8f;
+    background: -webkit-gradient(linear, left top, left bottom, from(#938f8f), to(#020202));
+    background: -webkit-linear-gradient(top, #938f8f, #020202);
+    background: -moz-linear-gradient(top, #938f8f, #020202);
+    background: -ms-linear-gradient(top, #938f8f, #020202);
+    background: -o-linear-gradient(top, #938f8f, #020202);
+    background: linear-gradient(top, #938f8f, #020202);
+    border-radius: 10px 10px;
+    -webkit-box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+    -moz-box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+	
+	text-decoration: none; 
+	color: #FFFFFF;
+}
+div.pagination a:hover, div.pagination a:active {
+    font-family:"MyriadPro-Regular",Arial, Helvetica, sans-serif;
+	font-size:14px;
+	border:0px solid #AB7E6F;
+	color: #FFFFFF;	
+	background-color:#EBB33B; 
+	border-bottom-color: #384f76;
+    background-color: #BA831F;
+    background: -webkit-gradient(linear, left top, left bottom, from(#EBB33B), to(#BA831F));
+    background: -webkit-linear-gradient(top, #EBB33B, #BA831F);
+    background: -moz-linear-gradient(top, #EBB33B, #BA831F);
+    background: -ms-linear-gradient(top, #EBB33B, #BA831F);
+    background: -o-linear-gradient(top, #EBB33B, #BA831F);
+    background: linear-gradient(top, #EBB33B, #BA831F);
+    border-radius: 10px 10px;
+    -webkit-box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+    -moz-box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.3); //* HOVER */
+}
+div.pagination span.current {
+    font-family:"MyriadPro-Regular",Arial, Helvetica, sans-serif;
+	font-size:14px;
+	padding: 4px 5px 4px 5px;
+	margin-right: 3px;
+	font-weight: bold;
+	background-color:#44c3fb; 
+	border-bottom-color: #384f76;
+    background-color: #44c3fb;
+    background: -webkit-gradient(linear, left top, left bottom, from(#44c3fb), to(#29ABE5));
+    background: -webkit-linear-gradient(top, #44c3fb, #29ABE5);
+    background: -moz-linear-gradient(top, #44c3fb, #29ABE5);
+    background: -ms-linear-gradient(top, #44c3fb, #29ABE5);
+    background: -o-linear-gradient(top, #44c3fb, #29ABE5);
+    background: linear-gradient(top, #44c3fb, #29ABE5);
+    border-radius: 10px 10px;
+    -webkit-box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+    -moz-box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+	color: #353335;
+}
+div.pagination span.disabled {
+    font-family:"MyriadPro-Regular",Arial, Helvetica, sans-serif;
+	font-size:14px;
+	padding: 2px 5px 2px 5px;
+	margin-right: 2px;
+	background-color:#e8f5fb; 
+	border-bottom-color: #384f76;
+    background-color: #e8f5fb;
+    background: -webkit-gradient(linear, left top, left bottom, from(#e8f5fb), to(#c1c8cc));
+    background: -webkit-linear-gradient(top, #e8f5fb, #c1c8cc);
+    background: -moz-linear-gradient(top, #e8f5fb, #c1c8cc);
+    background: -ms-linear-gradient(top, #e8f5fb, #c1c8cc);
+    background: -o-linear-gradient(top, #e8f5fb, #c1c8cc);
+    background: linear-gradient(top, #e8f5fb, #c1c8cc);
+    border-radius: 10px 10px;
+    -webkit-box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+    -moz-box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+	color: #888b8d;
+}
+.doted{
+	font-family:"MyriadPro-Regular",Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#2E2E2E;
+	padding-right:2px;
+}
